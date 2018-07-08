@@ -14,4 +14,37 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DenseGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SparseGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Path.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestPath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="testG1.txt">
+      <Filter>头文件</Filter>
+    </Text>
+    <Text Include="testG2.txt">
+      <Filter>头文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
